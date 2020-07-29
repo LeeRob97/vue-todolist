@@ -1,24 +1,4 @@
 # todolist
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##About Project
+This is my "start-up" project for learning Vue. This was mostly created following developer [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) "Vue JS Crash Course" tutorial, as well as some of my own touches!
